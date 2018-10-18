@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Cuestionario</string>
+    <string name="titulo">\n CCNA 4 \n Capitulo 7 \n Evolución de las redes</string>
+
+    <string name="pregunta1">1. ¿Qué enunciado describe mejor una WAN?</string>
+    <string name="respuesta1Pregunta1">Una WAN interconecta redes LAN en largas distancias</string>
+    <string name="respuesta2Pregunta1">Una WAN es una utilidad pública que permite el acceso a Internet.</string>
+    <string name="respuesta3Pregunta1">WAN es otro nombre para Internet.</string>
+    <string name="respuesta4Pregunta1">Una WAN es una LAN que se extiende para proporcionar acceso seguro a la red remota.</string>
+
+    <string name="pregunta2">2. ¿Qué dos tecnologías WAN es más probable que sean utilizadas por una empresa que por los teletrabajadores o los usuarios domésticos? (ESCOGE DOS.)</string>
+    <string name="respuesta1Pregunta2">DSL</string>
+    <string name="respuesta2Pregunta2">Frame Relay</string>
+    <string name="respuesta3Pregunta2">MetroE</string>
+    <string name="respuesta4Pregunta2">VPN</string>
+
+    <string name="pregunta3">3. ¿Qué tecnología de banda ancha sería mejor para un usuario que necesita acceso remoto cuando viaja en montañas y en el mar?</string>
+    <string name="respuesta1Pregunta3">Wi-Fi Mesh</string>
+    <string name="respuesta2Pregunta3">Banda ancha móvil</string>
+    <string name="respuesta3Pregunta3">WiMax</string>
+    <string name="respuesta4Pregunta3">Satélite</string>
+
+    <string name="pregunta4">4. ¿Qué es una desventaja de una red de conmutación de paquetes en comparación con una red de conmutación de circuitos?</string>
+
+    <string name="pregunta5">5. ¿Qué modelo de nube proporciona servicios para una organización o entidad específica?</string>
+    <string name="respuesta1Pregunta5">Una nube híbrida</string>
+    <string name="respuesta2Pregunta5">Una nube comunitaria</string>
+    <string name="respuesta3Pregunta5">Una nube pública</string>
+    <string name="respuesta4Pregunta5">Una nube privada</string>
+
+    <string name="pregunta6">6. ¿Qué dos capas  del modelo OSI están asociadas con las funciones del plano de control de red SDN que toman las decisiones de reenvío? (Elija dos)</string>
+    <string name="respuesta1Pregunta6">Capa 1</string>
+    <string name="respuesta2Pregunta6">Capa 2</string>
+    <string name="respuesta3Pregunta6">Capa 3</string>
+    <string name="respuesta4Pregunta6">Capa 4</string>
+
+    <string name="pregunta7">7. ¿Qué tecnología requiere el uso de PPPoE para proporcionar conexiones PPP a los clientes?</string>
+
+    <string name="pregunta8">8. ¿Qué se utiliza para intercambiar información de enrutamiento entre enrutadores dentro de cada AS?</string>
+    <string name="respuesta1Pregunta8">Enrutamiento estático</string>
+    <string name="respuesta2Pregunta8">Protocolos de enrutamiento IGP</string>
+    <string name="respuesta3Pregunta8">Protocolos de enrutamiento EGP</string>
+    <string name="respuesta4Pregunta8">Enrutamiento por defecto</string>
+
+    <string name="pregunta9">9. ¿Qué mecanismo de QoS permite que los datos sensibles a la demora, como la voz, se envién primero antes de que se envíen los paquetes en otras colas?</string>
+
+    <string name="pregunta10">10. ¿Qué rango de direcciones IPv4 cubre todas las direcciones IP que coinciden con el filtro de ACL especificado por 172.16.2.0 con máscara wildcard 0.0.1.255?</string>
+    <string name="respuesta1Pregunta10">172.16.2.0 a 172.16.2.255</string>
+    <string name="respuesta2Pregunta10">172.16.2.1 a 172.16.3.254</string>
+    <string name="respuesta3Pregunta10">172.16.2.0 a 172.16.3.255</string>
+    <string name="respuesta4Pregunta10">172.16.2.1 a 172.16.255.255</string>
+
+    <string name="calificar">Calificar</string>
+    <string name="enviar">Enviar</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="puntuacion">Tu puntuación es: </string>
+    <string name="preguntasCorrectas">Preguntas correctas: </string>
+    <string name="prueba">Prueba de CCNA 4</string>
+</resources>
